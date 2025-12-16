@@ -1,0 +1,48 @@
+# Hi, I’m Sri Laxmi 👋
+
+I’m an **AI Product Manager with 8+ years of experience** building and scaling data‑driven and Generative AI products. I focus on turning complex AI capabilities into **practical, user‑centric platforms** that help people learn faster, work smarter, and grow their careers.
+
+Most of my work sits at the intersection of **Generative AI, product strategy, and developer education**—from RAG‑powered systems and AI learning platforms to career‑accelerating tools for product managers.
+
+I’m especially passionate about **helping people upskill in GenAI**, and I actively build and open‑source projects to make AI more accessible and actionable.
+
+---
+
+## What I work on
+
+- **Generative AI products**: RAG pipelines, semantic search, LLM‑powered assistants, AI workflows  
+- **AI learning platforms**: personalized learning paths, intelligent assessments, adaptive content  
+- **Career tools for PMs**: interview prep, skill acceleration, practical frameworks  
+- **Open‑source projects**: hands‑on GenAI examples you can clone, run, and learn from  
+- **Product leadership**: strategy, roadmaps, 0→1 and scaling products with measurable impact
+
+---
+
+## Projects & Platforms
+
+- 🚀 **Personalized AI Learning Hub**  
+  A learning platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies  
+  👉 https://ai-knowledge-management-plum.vercel.app/
+
+- 🧠 **Product Management Interview Expert GPT**  
+  The **#1 GPT for PM interviews**, trusted by **15,000+ professionals** to prepare faster, practice smarter, and accelerate their careers
+
+- 🔧 **Generative AI Projects (Open Source)**  
+  A growing collection of **practical GenAI projects** designed to help people learn by building  
+  👉 https://github.com/SriLaxmi1993/Generative-AI-Projects  
+  ⭐ If you find this useful, consider starring the repo!
+
+---
+
+## About Me
+
+- Built and scaled **Generative AI products** used by millions, including a GenAI‑powered search platform that reached **4M+ users and $150K MRR**  
+- Designed and shipped **RAG‑based systems** that improved search relevance and reduced user research time by **40%**  
+- Launched AI‑powered tools for creators, increasing **engagement by 25%** and driving adoption across platforms  
+- Led large‑scale product initiatives across **B2C, B2B, and SaaS** in Europe, India, and the US, including multi‑country launches and high‑scale mobile apps  
+- Strong background in **GenAI, RAG, vector search, embeddings, LLMs**, and cloud platforms (AWS, GCP, Azure)
+
+---
+
+🌱 **Always building, learning, and sharing.**  
+If you’re interested in **GenAI, product management, or upskilling for the AI era**, feel free to explore my repos or reach out—happy to connect and collaborate.
