@@ -6,26 +6,18 @@ Most of my work sits at the intersection of **Generative AI, product strategy, a
 
 I’m especially passionate about **helping people upskill in GenAI**, and I actively build and open‑source projects to make AI more accessible and actionable.
 
----
-
-## What I work on
-
-- **Generative AI products**: RAG pipelines, semantic search, LLM‑powered assistants, AI workflows  
-- **AI learning platforms**: personalized learning paths, intelligent assessments, adaptive content  
-- **Career tools for PMs**: interview prep, skill acceleration, practical frameworks  
-- **Open‑source projects**: hands‑on GenAI examples you can clone, run, and learn from  
-- **Product leadership**: strategy, roadmaps, 0→1 and scaling products with measurable impact
 
 ---
 
-## Projects & Platforms
+## Personal Projects
 
 - 🚀 **Personalized AI Learning Hub**  
-  A learning platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies  
+  A learning platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies. Trusted by **1000+ professionals**
   👉 https://ai-knowledge-management-plum.vercel.app/
 
 - 🧠 **Product Management Interview Expert GPT**  
   The **#1 GPT for PM interviews**, trusted by **15,000+ professionals** to prepare faster, practice smarter, and accelerate their careers
+  https://chatgpt.com/g/g-X9Zal2ygw-product-management-interview-expert
 
 - 🔧 **Generative AI Projects (Open Source)**  
   A growing collection of **practical GenAI projects** designed to help people learn by building  
