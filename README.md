@@ -12,7 +12,8 @@ I’m especially passionate about **helping people upskill in GenAI**, and I act
 ## Personal Projects
 
 - 🚀 **Personalized AI Learning Hub**  
-  A learning platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies. Trusted by **1000+ professionals**
+  A learning platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies. 
+  Trusted by **1000+ professionals**
   👉 https://ai-knowledge-management-plum.vercel.app/
 
 - 🧠 **Product Management Interview Expert GPT**  
