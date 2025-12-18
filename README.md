@@ -1,8 +1,8 @@
 # Hi, I’m Sri Laxmi 👋
 
-I’m an **AI Product Manager with 8+ years of experience** building and scaling data‑driven and Generative AI products. I focus on turning complex AI capabilities into **practical, user‑centric platforms** that help people learn faster, work smarter, and grow their careers.
+I’m an **AI Product Manager with 8+ years of experience** building and scaling data‑driven and Generative AI products. I focus on turning complex AI capabilities into **practical, user‑centric p...
 
-Most of my work sits at the intersection of **Generative AI, product strategy, and developer education**—from RAG‑powered systems and AI learning platforms to career‑accelerating tools for product managers.
+Most of my work sits at the intersection of **Generative AI, product strategy, and developer education**—from RAG‑powered systems and AI learning platforms to career‑accelerating tools for produ... 
 
 I’m especially passionate about **helping people upskill in GenAI**, and I actively build and open‑source projects to make AI more accessible and actionable.
 
@@ -11,16 +11,16 @@ I’m especially passionate about **helping people upskill in GenAI**, and I act
 
 ## Personal Projects
 
-- 🚀 **Personalized AI Learning Hub**  
+- 🚀 [**Personalized AI Learning Hub**](https://ai-knowledge-management-plum.vercel.app/)  
   A learning platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies. 
   Trusted by **1000+ professionals**
   👉 https://ai-knowledge-management-plum.vercel.app/
 
-- 🧠 **Product Management Interview Expert GPT**  
+- 🧠 [**Product Management Interview Expert GPT**](https://chatgpt.com/g/g-X9Zal2ygw-product-management-interview-expert)  
   The **#1 GPT for PM interviews**, trusted by **15,000+ professionals** to prepare faster, practice smarter, and accelerate their careers
   https://chatgpt.com/g/g-X9Zal2ygw-product-management-interview-expert
 
-- 🔧 **Generative AI Projects (Open Source)**  
+- 🔧 [**Generative AI Projects (Open Source)**](https://github.com/SriLaxmi1993/Generative-AI-Projects)  
   A growing collection of **practical GenAI projects** designed to help people learn by building  
   👉 https://github.com/SriLaxmi1993/Generative-AI-Projects  
   ⭐ If you find this useful, consider starring the repo!
