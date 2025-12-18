@@ -1,18 +1,18 @@
 # Hi, I’m Sri Laxmi 👋
 
-I’m an **AI Product Manager with 8+ years of experience** building and scaling data‑driven and Generative AI products. I focus on turning complex AI capabilities into **practical, user‑centric p[...]**
+I’m an **AI Product Manager with 8+ years of experience** building and scaling data‑driven and Generative AI products. I focus on turning complex AI capabilities into **practical, user‑centric product.
 
-Most of my work sits at the intersection of **Generative AI, product strategy, and developer education**—from RAG‑powered systems and AI learning platforms to career‑accelerating tools for produ[...]
+Most of my work sits at the intersection of **Generative AI, product strategy, and developer education**—from RAG‑powered systems and AI learning platforms to career‑accelerating tools for product
 
 I’m especially passionate about **helping people upskill in GenAI**, and I actively build and open‑source projects to make AI more accessible and actionable.
 
 
 ---
 
-## Personal Projects
+## Personal Projects that received Love from people:)
 
 - 🚀 [**Personalized AI Learning Hub**](https://ai-knowledge-management-plum.vercel.app/)  
-  A learning platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies. 
+  A platform that delivers **curated resources, intelligent assessments, and adaptive learning paths** to master Generative AI tools and technologies. 
   Trusted by **1000+ professionals**
 
 - 🧠 [**Product Management Interview Expert GPT**](https://chatgpt.com/g/g-X9Zal2ygw-product-management-interview-expert)  
