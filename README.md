@@ -18,7 +18,7 @@ I’m especially passionate about **helping people upskill in GenAI**, and I act
 - 🧠 [**Product Management Interview Expert GPT**](https://chatgpt.com/g/g-X9Zal2ygw-product-management-interview-expert)  
   The **#1 GPT for PM interviews**, trusted by **15,000+ professionals** to prepare faster, practice smarter, and accelerate their careers
 
-- 🔧 [**Generative AI Projects (Open Source)**](https://github.com/SriLaxmi1993/Generative-AI-Projects)  
+- 🔧 [*AI Agents (Open Source)**](https://github.com/SriLaxmi1993/Generative-AI-Projects)  
   A growing collection of **practical GenAI projects** designed to help people learn by building  
   ⭐ If you find this useful, consider starring the repo!
 
